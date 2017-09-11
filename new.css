@@ -1,0 +1,29 @@
+/* 
+    Document   : new
+    Created on : 11 Sep, 2017, 7:12:44 PM
+    Author     : Pramoth
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+   
+}
+body{
+    font-family: cursive;
+    font-size: 0.8em;
+}
+header,footer{
+padding: 10px;
+color:white;
+background-color: navy;
+}
+nav{
+    background-color:  activeborder;
+    display: block;
+    font-size: 20px;
+}
+div{
+    background-color:  activeborder;
+}
